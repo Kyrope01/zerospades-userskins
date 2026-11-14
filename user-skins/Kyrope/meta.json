@@ -1,5 +1,5 @@
 {
 	"title": "Kyrope",
-	"description": "Minecraft Steve-style skin: blocky brown hair, pixel face, indigo pants and gray shoes. Only the shirt is team-colored. Built on ZeroSpades' Deuce geometry (OpenSpades Contributors, GPL-3.0-or-later).",
+	"description": "Minecraft Steve at native resolution: 8x8x8 head with the full 8x8 face, 4x4 limb cross-sections, indigo pants and gray shoes. Only the shirt is team-colored. Built for ZeroSpades' Deuce rig (OpenSpades Contributors, GPL-3.0-or-later).",
 	"authors": ["Kyrope01", "OpenSpades Contributors (Deuce base)"]
 }
